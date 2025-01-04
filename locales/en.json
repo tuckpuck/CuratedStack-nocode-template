@@ -1,17 +1,17 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "description": "Build a curated directory of websites without or with code",
+  "title": "REDEngine Tools & Resources",
+  "description": "All Free & Open Sourced",
   "tools": {
     "title": "Tools & Resources",
     "description": "Find the tool you need in each category"
   },
   "footer": {
-    "title": "Any tool to suggest?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "title": "Want to suggest more tools & resources?",
+    "description": "Feel free to contact us via Discord!",
+    "copyright": "Made by REDEngine",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "REDEngine",
+      "website": "https://dsc.gg/redenginedsc"
     }
   },
   "buttons": {
